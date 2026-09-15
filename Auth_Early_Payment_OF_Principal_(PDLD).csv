@@ -1,0 +1,11 @@
+TEST_ID,Description,Login_User,Login_Password,PDLD_ID,Expected_Result,Column7,Column8,Column9,Column10
+TC_10,Successfully Authorize A Deal,AAHADD10249,TEst12345,PDLD2604100018,Txn Complete,,,,
+,,,,PDLD2604100019,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

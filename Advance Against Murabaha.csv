@@ -1,0 +1,2 @@
+TEST_ID,Description,Customer_ID,Request_ID_1,Advance,Profit_Spread,Due_Period,Limit_ID,Expected_Result
+TCS_03,Successfully created IS Form inputter (IS) ,291684,IAR2617000016,"50,000.00",5,1,2296969.0036401.01.291684,Txn Complete

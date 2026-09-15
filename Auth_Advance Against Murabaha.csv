@@ -1,0 +1,2 @@
+TEST_ID,Description,Customer_ID,Expected_Result
+TCS_04,Click Authorize A Deal Record | Click Authorize a Deal ,IS2617000027,Txn Complete

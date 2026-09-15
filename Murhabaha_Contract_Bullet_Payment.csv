@@ -1,0 +1,11 @@
+TEST_ID,Description,Login_ID,Edit_ID,Customer_Number,Inventory_ID,Finance_Amount,Culmination Days,Expected_Result,Column10
+TCS_07,Successfully created (LD) Bullet Contract inputter,TEST1,?52,291684,INV000321570,"50,000.00",1,Txn Complete,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

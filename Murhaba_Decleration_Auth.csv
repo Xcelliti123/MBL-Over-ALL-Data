@@ -1,0 +1,11 @@
+T_ID,Description,User Id,value for ID,Password,Column7,Expected Result,Column9,Column10
+TCS_06,Input all required fields and commit.,TEST2,INV000321570,TEst12345,,Txn Complete,,
+,,,INV000307384,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,
+,,,,,,,,

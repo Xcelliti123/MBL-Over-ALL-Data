@@ -1,0 +1,11 @@
+TEST_ID,Description,Login_User,PDLD_ID,Repayment Amount,Expected_Result,Column7,Column8,Column9,Column10
+TC_09,Valid A Deal Commit A Deal,RAMSHA36113,PDLD2604100019,20000,Txn Complete,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
