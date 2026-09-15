@@ -1,0 +1,2 @@
+Test_ID,Description,Name,Adress,ID_Number_1,ID_Type_1,Negative_ID_Type_1,Expected_Result
+TC_CIF_CORP_01,Open Corporate Customer and input all mandotaroy fields,Name,Adress,4215632587960,ID-R,ID-N,Txn Complete
