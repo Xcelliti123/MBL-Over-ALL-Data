@@ -1,0 +1,10 @@
+Test_ID,Description,Written_Offer_Date,Customer_ID,Customer_Acc,Finance_Amount,Delivery_Period,Sale_Period,Credit_Sale,Expected_Result
+TCS_01,Successfully created IAR Written Offer Form inputter,30,291684,0100177297,50000,5,5,5,Txn Complete
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

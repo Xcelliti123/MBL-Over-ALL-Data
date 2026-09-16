@@ -1,0 +1,2 @@
+TEST_ID,DESCRIPTION,LD_ID,Declared Amount,Date of Purchase GRN 1,Description of Goods 1,Name of Supplier 1,Total Value of Goods 1,Negative Incentive Date,EXPECTED_RESULT,Column11
+TCS_05,SUCCESSFULLY INITATE INVENTORY (INV) OF SALAM FINANCE,LD2616200002,"40,000.00",11,GOODS,NAME,"40,000.00",11,Txn Complete,
