@@ -1,0 +1,11 @@
+ TEST_ID,Description,Customer_ID,IS_NO,Limit_Referance,Inventory Completion Date,Expected_Result,Column7,Column8,Column9,Column10
+TC_03,LD1 will be generated (LD2333200001),823892,IS2618000023,32946.01,01 Jul 2026,Txn Complete,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,

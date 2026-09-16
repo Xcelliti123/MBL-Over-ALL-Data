@@ -1,0 +1,11 @@
+TEST_ID,DESCRIPTION,LD1_ID,Declared Amount,Date of Purchase_GRN 1,Description of Goods 1,Name of Supplier 1,Total Value of Goods 1,Negative Incentive Date,EXPECTED_RESULT
+TCS_07,SUCCESSFULLY FILL (GRN) INVENTORY FORM,LD2604400001,"5,000.00",1,GOODS,NAME,"5,000.00",1,Txn Complete
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
