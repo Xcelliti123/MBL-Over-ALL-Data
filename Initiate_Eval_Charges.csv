@@ -1,0 +1,12 @@
+TEST_ID,DESCRIPTION,Debit Currency,Debit Acct No,Debit Amount,Voucher ID,Case ID,Payment Type,EXPECTED_RESULT,Column10,Column11
+TCS_03,SUCCESSFULLY INITATE Eval CHARGES OF DM-HOUSING,PKR,0111849943,6960,12312334,EH-2022-0025-2999,EVAL.FEE,Txn Complete,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,

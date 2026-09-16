@@ -1,0 +1,16 @@
+TEST_id,DESCRIPTION,CUSTOMER_NO,IS_ID,INTREST_RATE,Adv Agnst Mush Date,Maturity Date Of Mush,Limit Ref,Date 1,Amount 1,Date 2,Date 3,Amount 3,Date 4,Floor_Rate,Cap_Rate,EXPECTED_RESULT
+TCS_07,SUCCESSFULLY CREATED A (LD2) ADVANCE CONTRACT FORM,823644,IS2616200013,5,16,18,0035945.01,17,30000,17,18,20000,18,5,5,Txn Complete
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,

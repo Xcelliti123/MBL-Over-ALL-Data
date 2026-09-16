@@ -1,0 +1,12 @@
+Test_ID,Description,Debit_Currency,Debit_Amount,Voucher_ID,Case_ID,Payment_Type,Debit_Acc,Expected_Result,Column9,Column10,Column11
+TCS_03,Successfully created Doc charges for Solar consumer,PKR,"3,800.00",12345461,SS-2021-0154-0995,DOC.CHARGES,0108653143,Txn Complete,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,

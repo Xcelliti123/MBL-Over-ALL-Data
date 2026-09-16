@@ -1,0 +1,12 @@
+Test_ID,Description,Debit_Currency,Debit_Amount,Voucher_ID,Case_ID,Payment_Type,Debit_Acc,Expected_Result,Column9,Column10,Column11
+TCS_01,Successfully created Initial charges for Solar consumer,PKR,"220,100.00",1234566,SS-2021-0154-0995,SD.AMOUNT,0108653143,Txn Complete,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
