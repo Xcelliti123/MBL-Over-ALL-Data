@@ -1,0 +1,14 @@
+TestID,TestDiscription,Expected Result,LockerID,Initialize_LockSpace_Key,Not_AuthorizedLockerKey,CustomerAccount,ID,Customer_Security_Auth_ID,Assign_Locker_Customer_Rent,Expected_Result
+LK_CUS_01,Fill all mandatory fields and commit,Txn Complete,5644,4436,FT25337GYN86,0100018479,OR.5644.0103,FT26037N7NVC,FT2603729PC0,Txn Complete 
+LK_CUS_02,Keep debit account of logged in branch,Txn Complete,5646,,FT25337GYN87,0101939271,OR.5645.0154,
+LK_CUS_03,Keep debit account other than the logged in branch,Debit account must be of Login branch,5647,,FT25337GYN86,0101939273,OR.7894.0154,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,

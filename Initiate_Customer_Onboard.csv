@@ -1,0 +1,2 @@
+TEST_ID,DESCRIPTION,Customer Classifcation,Given Name,Address,ID Number 1,Industry,Type of Product Services,Date of Birth,EXPECTED_RESULT,Beneficiary Owner
+TCS_01,SUCCESSFULLY FILL A INDV CUSTOMER FORM ,1001,NAME,Address,4223145673214,206,Basic Pay Scale (BPS) Grade 16 and below,11 JUN 1999,Txn Complete,Self
